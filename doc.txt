@@ -1,0 +1,9 @@
+max-w = max width  (dives orinted )
+max-auto = margin auto
+grid-cols-[30%_auto] - first wale ko 30% kabi bacha huya dusre wale ko jaega and sare scrren par same resut dega 
+px - pading left right
+py - padding top and bottom
+justify-end - justify flex end 
+relative - position relative
+mt - margin top
+pl - padding left 
